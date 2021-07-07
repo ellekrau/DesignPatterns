@@ -1,6 +1,6 @@
 Factory Method
 
-- Classificado pelo propósitop de criação
+- Classificado pelo propósito de criação
 - Escopo: Classe
 - Também conhecido como Construtor Virtual
 - Seu objetivo é criar uma "fábrica" de classes em tempo de execução e deixar que a classe decida seu tipo dinamicamente
