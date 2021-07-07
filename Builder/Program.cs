@@ -3,7 +3,7 @@ using System;
 
 namespace Builder
 {
-    class Program
+    static class Program
     {
         static void Main()
         {
