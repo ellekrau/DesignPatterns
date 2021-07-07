@@ -1,6 +1,7 @@
-Desafio de criação dinâmica de bases de acordo com o Personagem escolhido
+Abstract Factory
 
-- Cada personagem possui um tipo de revenstimento e energia diferente dos demais
-- Revestimentos herdam da interface IRevestimento
-- Energias herdam da interface IEnergia
-- Cada personagem possui um comportamento diferente dentro de um método de criação
+- Classificado pelo propósito de criação
+- Escopo: Objetos
+- Tem como objetivo o agrupamento de diversas factories que possuem características semelhantes, utilizando uma única interface
+
+Desafio: Criação dinâmica de bases de acordo com o Personagem escolhido
