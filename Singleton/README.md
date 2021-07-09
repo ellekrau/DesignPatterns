@@ -7,7 +7,7 @@ Singleton
 - Reduzir a utilização de memória
 - Fornecer mais flexibilidade do que com estruturas estáticas para instanciar objetos
 
-Exemplo: Uma partida de futebol só pode ter uma bola em campo
+Desafio: Uma partida de futebol só pode ter uma bola em campo
 
 - Criação de 3 jogadores e todos solicitam a bola (Singleton) e executam o método Mensagem
 - A classe Singleton representa a bola e apenas uma instância dela fica em memória, mesmo sendo solicitada 3 vezes
