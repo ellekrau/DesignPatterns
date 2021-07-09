@@ -10,3 +10,7 @@ Criação:
 - Abstract Factory
 - Singleton
 - Builder
+- Prototype
+
+Estrutura:
+- Adapter
