@@ -8,3 +8,5 @@ Baseado no livro: "Design Patterns com C#: Aprenda padrões de projeto com os ga
 Criação:
 - Factory Method
 - Abstract Factory
+- Singleton
+- Builder
