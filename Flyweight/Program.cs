@@ -1,12 +1,29 @@
-﻿using System;
+﻿using Flyweight.Entities;
+using System;
 
 namespace Flyweight
 {
-    class Program
+    static class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            var flyweight = new Flyweight();
+            var cor = string.Empty;
+
+            Tartaruga tartaruga;
+
+            while (true)
+            {
+                Console.WriteLine(" Qual tartaruga enviar para a tela?");
+                Console.Write(" > ");
+
+                cor = Console.ReadLine();
+
+                tartaruga = flyweight.GetTartaruga(cor);
+                tartaruga.Mostra(cor);
+
+                Console.WriteLine("\n ------------------------ ");
+            }
         }
     }
 }
