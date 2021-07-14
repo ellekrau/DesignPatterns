@@ -14,3 +14,4 @@ Criação:
 
 Estrutura:
 - Adapter
+- Flyweight

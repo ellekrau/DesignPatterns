@@ -6,8 +6,7 @@ Factory Method
 - Seu objetivo é criar uma "fábrica" de classes em tempo de execução e deixar que a classe decida seu tipo dinamicamente
 - Dispõe uma interface, e as subclasses decidirão qual classe concreta deve ser instanciada
 
-"Abstração não deve depender de detalhes, detalhes são quem devem depender de abstrações"
-
+> "Abstração não deve depender de detalhes, detalhes são quem devem depender de abstrações"
 
 Desafio: Criação dinâmica de personagem de acordo com a opção escolhida
 
