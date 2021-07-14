@@ -16,3 +16,4 @@ Estrutura:
 - Adapter
 - Flyweight
 - Bridge
+- Composite
