@@ -15,3 +15,4 @@ Criação:
 Estrutura:
 - Adapter
 - Flyweight
+- Bridge
