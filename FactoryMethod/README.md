@@ -8,7 +8,7 @@ Factory Method
 
 > "Abstração não deve depender de detalhes, detalhes são quem devem depender de abstrações"
 
-Desafio: Criação dinâmica de personagem de acordo com a opção escolhida
-
-- Os personagens herdam e implementam a interface IPersonagem
-- Cada personagem possui um comportamento diferente dentro de um mesmo método de criação
+Desafio: Baseado no game Mortal Kombat, onde o usuário escolhe um personagem e este é utilizado para lutar
+- Criação dinâmica de personagem de acordo com a opção escolhida pelo usuário
+- Os personagens herdam e implementam a interface IPersonagem, que implementa o método Escolhido()
+- Cada personagem possui um comportamento diferente para o método Escolhido()
