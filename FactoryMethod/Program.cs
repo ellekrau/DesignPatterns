@@ -4,7 +4,7 @@ namespace FactoryMethod
 {
     static class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine(" Escolha um personagem: \n");
             Console.WriteLine("  1 Scorpion");
