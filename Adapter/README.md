@@ -12,6 +12,6 @@ Adapter
 > - Usa composição
 > - Pode envolver classes e/ou interfaces, pois a instância de objeto de classe ou interface como um membro encapsulado particular
   
- Desafio: Baseado no game Metal Slug, onde o personagem pode andar ou utilizar veículos de combate, como um tanque de guerra ou um avião.
+ Desafio: Baseado no game Metal Slug, onde o personagem pode andar ou utilizar veículos de combate, como um tanque de guerra ou um avião
  - Criar um adaptador que torne possível que os mesmos comandos funcionem quando o personagem estiver em um veículo ou andando
 
