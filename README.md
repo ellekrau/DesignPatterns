@@ -17,3 +17,4 @@ Estrutura:
 - Flyweight
 - Bridge
 - Composite
+- Decorator
