@@ -1,12 +1,14 @@
-﻿using System;
-
-namespace Facade
+﻿namespace Facade
 {
-    class Program
+    static class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            var facade = new Facade();
+            facade.OperacaoA();
+            facade.OperacaoB();
+
+            System.Console.ReadKey();
         }
     }
 }

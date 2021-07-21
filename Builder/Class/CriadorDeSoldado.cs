@@ -1,4 +1,6 @@
-﻿namespace Builder.Entities
+﻿using Builder.Entities;
+
+namespace Builder
 {
     public abstract class CriadorDeSoldado
     {
