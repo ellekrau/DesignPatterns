@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Decorator.Entities
+﻿namespace Decorator.Entities
 {
-    class MoldeArmadura
+    public class MoldeArmadura
     {
+        private readonly string descricao = "Armadura do personagem - Abstrata";
+
+        public virtual string Descricao => 
+            descricao;
     }
 }
