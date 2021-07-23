@@ -19,3 +19,4 @@ Estrutura:
 - Composite
 - Decorator
 - Facade
+- Proxy
