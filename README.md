@@ -20,3 +20,6 @@ Estrutura:
 - Decorator
 - Facade
 - Proxy
+
+Comportamento
+- Template Method
