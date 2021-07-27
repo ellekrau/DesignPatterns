@@ -8,6 +8,6 @@ Template Method
   - Variantes (personalizáveis): Implementação padrão ou nenhuma
 
 Desafio: Baseado em jogos de corrida
-- Possível escikher a dificuldade das corridas entre: fácil, normal e difícil
+- Possível escolher a dificuldade das corridas entre: fácil, normal e difícil
 - A sequência das pistas e a trilha sonora são as mesmas (invariantes)
 - Características variantes de acordo com a dificuldade escolhida
