@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Comportamento", "Comportamento", "{C0D7E597-3CE8-4EC0-9716-5794396ABB8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{847E86D0-94D7-4E0D-B9D5-1291EB5F2D1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{847E86D0-94D7-4E0D-B9D5-1291EB5F2D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{A0EFCF49-DAA5-4E14-8A36-401DC71F1C62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{847E86D0-94D7-4E0D-B9D5-1291EB5F2D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{847E86D0-94D7-4E0D-B9D5-1291EB5F2D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{847E86D0-94D7-4E0D-B9D5-1291EB5F2D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0EFCF49-DAA5-4E14-8A36-401DC71F1C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EFCF49-DAA5-4E14-8A36-401DC71F1C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0EFCF49-DAA5-4E14-8A36-401DC71F1C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0EFCF49-DAA5-4E14-8A36-401DC71F1C62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,6 +117,7 @@ Global
 		{C1EC73B3-1779-4C93-ABED-F2DE35DEF47F} = {57E84126-B9E1-4BBE-AD22-72167E9D5422}
 		{082A82BB-F527-4DDA-AE0A-B0B359D24012} = {57E84126-B9E1-4BBE-AD22-72167E9D5422}
 		{847E86D0-94D7-4E0D-B9D5-1291EB5F2D1D} = {C0D7E597-3CE8-4EC0-9716-5794396ABB8E}
+		{A0EFCF49-DAA5-4E14-8A36-401DC71F1C62} = {C0D7E597-3CE8-4EC0-9716-5794396ABB8E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {29CD0AE8-4A37-4793-B801-683A2A54C763}
