@@ -1,6 +1,6 @@
 Template Method
 
-- Classificado pelo propósito de comportamental
+- Classificado pelo propósito comportamental
 - Escopo: Classe
 - Define um modelo de passos abstratos que serão fornecidos às subclasses para que possam implementar os passos de um algoritmo sem alterar a estrutura do próprio algoritmo
 - Ao desenvolver os componentes deve-se decidir quais etapas de um algoritmo serão:
