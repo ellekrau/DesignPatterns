@@ -1,5 +1,7 @@
 # DesignPatterns
-Framework: .Net Core 5.0
+
+Linguagem: C#
+.Net Core 5.0
 
 Estudo sobre Design Patterns
 
