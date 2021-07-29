@@ -24,3 +24,4 @@ Estrutura:
 Comportamento
 - Template Method
 - Interpreter
+- Observer
