@@ -23,7 +23,7 @@ Estrutura:
 - Facade
 - Proxy
 
-Comportamento
+Comportamento:
 - Template Method
 - Interpreter
 - Observer
