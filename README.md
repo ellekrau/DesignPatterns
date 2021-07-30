@@ -27,3 +27,4 @@ Comportamento:
 - Template Method
 - Interpreter
 - Observer
+- Visitor
