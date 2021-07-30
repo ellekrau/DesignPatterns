@@ -22,7 +22,14 @@ namespace Visitor
                 etapa.Visitante(niveis);
             }
 
-            Console.ReadLine();
+            var finaliza = new FinalizarVisitor();
+
+            foreach (var etapa in jogo)
+            {
+                etapa.Visitante(finaliza);
+            }
+
+            Console.ReadKey();
         }
     }
 }
